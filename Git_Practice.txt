@@ -100,4 +100,4 @@ SECTION 9: INTENTIONAL MERGE CONFLICT
 
 Everyone should edit the next line differently.
 
-The best snack in RoomX is: Chocolate Chip Cookies
+The best snack in RoomX is: Pepperoni pizza and Chocolate chip cookies
